@@ -1,0 +1,49 @@
+# 5-Inch FPV Drone Build
+
+## Overview
+
+This build is based on a 5-inch Mark4-style freestyle frame and is equipped with 
+reliable and budget-conscious components for solid performance in 
+freestyle and general FPV flying.
+
+
+---
+
+## Components
+
+### 🧱 Frame
+- 5-Inch Freestyle Frame (Mark4 Copy)
+
+### 🧠 Flight Controller & ESC Stack
+- SpeedyBee F405 V3 Stack
+  - F4 Flight Controller
+  - 50A 4-in-1 BLHeli_S ESC
+  - 30x30 mounting pattern
+
+### ⚙️ Motors
+- EMAX MT2204 II PLUS – 2300KV (x4)
+
+### 📡 Receiver
+- HappyModel EP1 RX
+  - 2.4GHz ExpressLRS
+
+### 📶 Video Transmitter (VTX)
+- SpeedyBee TX800
+  - Adjustable Power Output (up to 800mW)
+
+### 📡 Antenna
+- 80cm 5.8GHz Antenna
+
+### 🪶 Propellers
+- iFlight 5” Propellers
+
+### 🎥 Camera
+- 9IMOD 1800TVL FPV Camera
+  - 5MP Sensor
+
+### 🧭 GPS Module
+- HGLRC M100
+  - Supports GPS/GLONASS/QZSS
+
+
+
