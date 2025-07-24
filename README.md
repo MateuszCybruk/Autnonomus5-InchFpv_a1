@@ -1,5 +1,5 @@
 This project is licensed under the [Apache License 2.0](LICENSE).  
-© 2025 Mateusz Cybruk.
+© 2025 Mateusz.
 
 
 # FPV: Converting a 5" Racing Drone into an Autonomous Smart Platform
