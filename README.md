@@ -1,3 +1,7 @@
+This project is licensed under the [Apache License 2.0](LICENSE).  
+© 2025 Mateusz Cybruk.
+
+
 # FPV: Converting a 5" Racing Drone into an Autonomous Smart Platform
 
 This project documents the conversion of a classic 5" racing FPV drone into an advanced, autonomous aerial platform using **BetaFlight** firmware and a **Raspberry Pi** companion computer.
