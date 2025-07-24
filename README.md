@@ -67,6 +67,6 @@ This project documents the conversion of a classic 5" racing FPV drone into an a
 na
 ---
 
-**Author**: Mateusz Cybruk 
+**Author**: Mateusz  
 **License**: Apache 2.0 
 
